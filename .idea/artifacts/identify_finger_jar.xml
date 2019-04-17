@@ -1,0 +1,40 @@
+<component name="ArtifactManager">
+  <artifact name="identify-finger:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/identify_finger_jar</output-path>
+    <root id="root">
+      <element id="archive" name="identify-finger.jar">
+        <element id="module-output" name="identify-finger" />
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" />
+        </element>
+      </element>
+      <element id="file-copy" path="$PROJECT_DIR$/libs/jna-4.5.0.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/libs/junit-4.8.2.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/libs/neurotec-gui.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/libs/neurotec-core.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/libs/neurotec-media.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/libs/tutorials-utils.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/libs/neurotec-devices.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/libs/jna-4.5.0-javadoc.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/libs/jna-4.5.0-sources.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/libs/neurotec-licensing.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/libs/junit-4.8.2-javadoc.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/libs/junit-4.8.2-sources.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/libs/neurotec-biometrics.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/libs/neurotec-gui-javadoc.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/libs/neurotec-core-javadoc.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/libs/neurotec-media-javadoc.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/libs/neurotec-biometrics-gui.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/libs/neurotec-devices-javadoc.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/libs/neurotec-media-processing.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/libs/neurotec-biometrics-client.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/libs/neurotec-licensing-javadoc.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/libs/neurotec-biometrics-javadoc.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/libs/neurotec-accelerator-admin-rest.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/libs/neurotec-biometrics-gui-javadoc.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/libs/neurotec-media-processing-javadoc.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/libs/neurotec-biometrics-client-javadoc.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/libs/neurotec-accelerator-admin-rest-javadoc.jar" />
+    </root>
+  </artifact>
+</component>

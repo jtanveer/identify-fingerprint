@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Class-Path: jna-4.5.0.jar junit-4.8.2.jar neurotec-gui.jar neurotec-co
+ re.jar neurotec-media.jar tutorials-utils.jar neurotec-devices.jar jn
+ a-4.5.0-javadoc.jar jna-4.5.0-sources.jar neurotec-licensing.jar juni
+ t-4.8.2-javadoc.jar junit-4.8.2-sources.jar neurotec-biometrics.jar n
+ eurotec-gui-javadoc.jar neurotec-core-javadoc.jar neurotec-media-java
+ doc.jar neurotec-biometrics-gui.jar neurotec-devices-javadoc.jar neur
+ otec-media-processing.jar neurotec-biometrics-client.jar neurotec-lic
+ ensing-javadoc.jar neurotec-biometrics-javadoc.jar neurotec-accelerat
+ or-admin-rest.jar neurotec-biometrics-gui-javadoc.jar neurotec-media-
+ processing-javadoc.jar neurotec-biometrics-client-javadoc.jar neurote
+ c-accelerator-admin-rest-javadoc.jar
+Main-Class: com.neurotec.tutorials.biometrics.IdentifyFinger
+
