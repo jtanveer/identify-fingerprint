@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Implementation-Title: identify-finger
+Implementation-Version: 11.0.0.0
+Permissions: all-permissions
+Specification-Vendor: Neurotechnology
+Codebase: *
+Specification-Title: identify-finger
+Class-Path: neurotec-core.jar neurotec-licensing.jar neurotec-gui.jar 
+ neurotec-media.jar neurotec-media-processing.jar neurotec-biometrics.
+ jar neurotec-biometrics-client.jar neurotec-biometrics-gui.jar neurot
+ ec-devices.jar jna.jar tutorials-utils.jar 
+Specification-Version: 11.0.0.0
+Implementation-Vendor: Neurotechnology
+Main-Class: com.neurotec.tutorials.biometrics.IdentifyFinger
+
