@@ -14,6 +14,7 @@
 out/
 classes/
 target/
+build/
 *.war
 *.nar
 *.ear
