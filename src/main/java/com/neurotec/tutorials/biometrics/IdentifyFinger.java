@@ -62,7 +62,8 @@ public final class IdentifyFinger {
 			e.printStackTrace();
 		}
 
-		NDataFileManager.getInstance().addFromDirectory("C:\\Users\\jamael\\Downloads\\Neurotec_Biometric_11_0_SDK\\Bin\\Data", false);
+//		NDataFileManager.getInstance().addFromDirectory("C:\\Users\\jamael\\Downloads\\Neurotec_Biometric_11_0_SDK\\Bin\\Data", false);
+		NDataFileManager.getInstance().addFile("Fingers.ndf");
 
 		NBiometricClient biometricClient = null;
 		NSubject probeSubject = null;

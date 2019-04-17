@@ -7,8 +7,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="identify-finger" />
-        <module name="tutorials-utils" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="tutorials-utils" target="8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
